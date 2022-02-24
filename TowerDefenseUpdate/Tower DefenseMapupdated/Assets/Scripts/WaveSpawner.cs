@@ -30,7 +30,7 @@ public class WaveSpawner : MonoBehaviour {
 
     void Update()
     {
-        if (EnemiesAlive > 0)
+        if (EnemiesAlive > 0 || PlayerStats.Lives < 1)
         {
             return;
         }
