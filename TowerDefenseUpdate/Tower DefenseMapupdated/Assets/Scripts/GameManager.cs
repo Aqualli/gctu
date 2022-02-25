@@ -18,13 +18,9 @@ public class GameManager : MonoBehaviour {
 
 
         
-      void Update() {
+    void Update() {
 
-        if (GameIsOver)
-            return;
-
-
-        if (PlayerStats.Lives <= 0)
+        if(GameIsOver)
         {
             EndGame();
         }
