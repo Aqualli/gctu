@@ -29,7 +29,7 @@ public class GameManager : MonoBehaviour {
     void EndGame()
     {
 
-        
+        GameIsOver = true;
         gameOverUI.SetActive(true);
 
     }
