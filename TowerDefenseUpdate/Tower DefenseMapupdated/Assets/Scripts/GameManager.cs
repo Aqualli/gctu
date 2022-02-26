@@ -20,7 +20,7 @@ public class GameManager : MonoBehaviour {
         
     void Update() {
 
-        if(GameIsOver)
+        if(PlayerStats.Lives == 0)
         {
             EndGame();
         }
@@ -29,7 +29,7 @@ public class GameManager : MonoBehaviour {
     void EndGame()
     {
 
-        GameIsOver = true;
+        
         gameOverUI.SetActive(true);
 
     }
