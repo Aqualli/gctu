@@ -6,7 +6,7 @@
             {
                 "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
                 "key": "buildOutputDirList",
-                "value": "{\"m_Value\":\"E:/Build/Build 3.0;E:/Build/Build 2.1;E:/Build/Build 2.0;E:/Build/TestBuild;E:/Build/Build 1.1;E:/Build/Build 1.0;E:/Published;;;\"}"
+                "value": "{\"m_Value\":\"E:/Build/Build 3.1;E:/Build/Build 3.0;E:/Build/Build 2.1;E:/Build/Build 2.0;E:/Build/TestBuild;E:/Build/Build 1.1;E:/Build/Build 1.0;E:/Published;;\"}"
             },
             {
                 "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
